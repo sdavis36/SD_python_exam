@@ -6,7 +6,7 @@ There are 3 files included in the repo:
       
 1. sequence_analysis.py - is the python script. This should be run from the command line on a terminal and requires a file input.   
 
-2. test_sequence_analysis.py - is the test script, which tests the functions in the sequence_analysis script for errors.    
+2. test_sequence_analysis.py - is the test script, which tests the functions in the sequence_analysis script for errors. You can run it directly from the command line, but it assumes the sequence_analysis.py file accessible in the same directory because it will import the functions from that script.  
 
 3. Example_sequences.txt - is a file of example sequences to be used with the sequence_analysis script. Please download the file locally and provide the appropriate filepath to the file on your machine or server when running the sequence_analysis script.   
       
