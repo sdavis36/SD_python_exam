@@ -1,10 +1,10 @@
 # SD_python_exam
 
-The purpose of this script and associated files is to count observed substrings of a specified length of a sequence of nucleotides, count possible substrings of a specified length, and calculate the linguistic complexity of a sequence of nucleotides.  
+The purpose of this script and associated files is to count observed substrings of a specified length of a sequence of nucleotides, count possible substrings of a specified length in a sequence of nucelotides, and calculate the linguistic complexity of a sequence of nucleotides.  
 
 There are 3 files included in the repo:    
       
-1. sequence_analysis.py - is the python script. This should be run from the command line on a terminal and requires a file input.     
+1. sequence_analysis.py - is the python script. This should be run from the command line on a terminal and requires a file input.   
 
 2. test_sequence_analysis.py - is the test script, which tests the functions in the sequence_analysis script for errors.    
 
